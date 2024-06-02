@@ -356,9 +356,3 @@ components:
         message:
           type: string
 ```
-
-## Additional Resources
-
-- [OpenAPI Specification](https://swagger.io/specification/)
-- [Codespaces documentation](https://docs.github.com/en/codespaces)
-- [Express Gateway Documentation](https://www.express-gateway.io/docs/)
